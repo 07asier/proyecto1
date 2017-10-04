@@ -3,7 +3,7 @@
     <head>
         
 
-        <title>Laravel</title>
+        <title>Laravel!</title>
 
 
     </head>

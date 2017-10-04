@@ -36,4 +36,8 @@ Route::post('/mensajeAgur', function () {
     return view('mensajeAgur');
 });
 
+Route::post('/mensajeAgur','datopersonalController@insertarDatoPersonal');
+
+
+
 
